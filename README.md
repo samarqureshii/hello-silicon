@@ -1,2 +1,2 @@
 # hello-silicon
-ARM64 on Apple Silicon.
+> An introduction to ARM64 Assembly on Apple Silicon.
